@@ -16,6 +16,6 @@
  * @param len
  * @param out
  */
-void sha256_hash(const uint8_t *data, size_t len, char *out);
+void sha256(const uint8_t *data, size_t len, char *out);
 
 #endif // NEXUS_CORE_SHA256_H

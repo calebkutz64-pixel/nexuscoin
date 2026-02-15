@@ -1,6 +1,6 @@
 #include "sha256.h"
 
-void sha256_hash(const uint8_t *data, size_t len, char *out)
+void sha256(const uint8_t *data, size_t len, char *out)
 {
     if (!data || !out)
         return;

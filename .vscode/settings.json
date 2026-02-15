@@ -186,5 +186,10 @@
     "C_Cpp_Runner.showCompilationTime": false,
     "C_Cpp_Runner.useLinkTimeOptimization": false,
     "C_Cpp_Runner.msvcSecureNoWarnings": false,
-    "C_Cpp_Runner.msvcBatchPath": ""
+    "C_Cpp_Runner.msvcBatchPath": "",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#4D0D5F",
+        "titleBar.activeBackground": "#6C1286",
+        "titleBar.activeForeground": "#FEFBFE"
+    }
 }

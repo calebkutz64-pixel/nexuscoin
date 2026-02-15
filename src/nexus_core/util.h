@@ -23,4 +23,12 @@ void bytes_to_hex(const uint8_t *data, size_t len, char *out);
  */
 int secure_random(uint8_t *buf, size_t len);
 
+/**
+ * @brief Prints a hex version of given stream of bytes.
+ *
+ * @param data
+ * @param len
+ */
+void print_hex(const uint8_t *data, size_t len);
+
 #endif // NEXUS_CORE_UTIL_H
